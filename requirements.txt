@@ -1,0 +1,32 @@
+backcall==0.2.0
+certifi==2023.5.7
+charset-normalizer==3.2.0
+easydict==1.10
+executing==1.2.0
+idna==3.4
+numpy==1.25.1
+pickleshare==0.7.5
+Pillow==10.0.0
+pip==23.1.2
+ptyprocess==0.7.0
+pure-eval==0.2.2
+Pygments==2.15.1
+requests==2.31.0
+setuptools==67.8.0
+six==1.16.0
+tomli==2.0.1
+tqdm==4.65.0
+traitlets==5.9.0
+typing_extensions==4.7.1
+urllib3==2.0.3
+wcwidth==0.2.6
+wheel==0.38.4
+opencv-python==4.8.0.74 
+matplotlib==3.7.2
+
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.12.1+cu113
+--extra-index-url https://download.pytorch.org/whl/cu113
+torchvision==0.13.1+cu113
+--extra-index-url https://download.pytorch.org/whl/cu113
+torchaudio==0.12.1
